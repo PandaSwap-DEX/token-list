@@ -1,7 +1,7 @@
 {
   "name": "PandaSwap Tokens",
   "logoURI": "https://raw.githubusercontent.com/PandaSwap-DEX/token-list/main/logos/logo.png",
-  "keywords": ["ethereum classic", "etc", "Pandaswap"],
+  "keywords": ["Ethereum Classic", "ETC", "PandaSwap", "PANDA"],
   "timestamp": "2022-07-22T00:00:00.000+00:00",
   "tokens": [
     {
