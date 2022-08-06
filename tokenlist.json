@@ -1,9 +1,17 @@
 {
   "name": "PandaSwap Tokens",
   "logoURI": "https://raw.githubusercontent.com/PandaSwap-DEX/token-list/main/logos/logo.png",
-  "keywords": ["ethereum classic", "etc", "Pandaswap", "Panda"],
-  "timestamp": "2022-08-06T00:00:00.000+00:00",
+  "keywords": ["ethereum classic", "etc", "Pandaswap"],
+  "timestamp": "2022-07-22T00:00:00.000+00:00",
   "tokens": [
+    {
+      "chainId": 61,
+      "address": "0x796897032673EF9FcC75e4ba8667F6D88A428447",
+      "name": "PandaSwap Token",
+      "symbol": "PANDA",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/PandaSwap-DEX/token-list/main/logos/0x796897032673EF9FcC75e4ba8667F6D88A428447.png"
+    },
     {
       "chainId": 61,
       "address": "0x1953cab0E5bFa6D4a9BaD6E05fD46C1CC6527a5a",
