@@ -1,6 +1,6 @@
 {
   "name": "PandaSwap Default",
-  "logoURI": "https://raw.githubusercontent.com/PandaSwap-DEX/token-list/main/logos/0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7.png",
+  "logoURI": "https://raw.githubusercontent.com/PandaSwap-DEX/token-list/main/logos/0xaebFFcb95F61d3AD03faD65c3bbBf0F86E06d1cf.png",
   "keywords": ["GnosisChain", "defi", "panda", "pandaswap", "Gnosis"],
   "version": {
     "major": 153,
@@ -8,6 +8,14 @@
     "patch": 0
   },
   "tokens": [
+  {
+      "name": "Pandaswap Token",
+      "address": "0xaebFFcb95F61d3AD03faD65c3bbBf0F86E06d1cf",
+      "symbol": "PANDA",
+      "decimals": 18,
+      "chainId": 100,
+      "logoURI": "https://raw.githubusercontent.com/PandaSwap-DEX/token-list/main/logos/0xaebFFcb95F61d3AD03faD65c3bbBf0F86E06d1cf.png"
+  },
     {
       "name": "Wrapped Ether from Ethereum",
       "address": "0x6A023CCd1ff6F2045C3309768eAd9E68F978f6e1",
